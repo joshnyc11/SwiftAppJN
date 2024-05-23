@@ -8,11 +8,8 @@
 //
 import UIKit
 class MovieDetailsVC: UIViewController {
+
     
-    
-    //this is the A to class B
-    
-   
     
     //add a movie to the favorites list
     weak var delegate: FavoriteMovieDelegate?
