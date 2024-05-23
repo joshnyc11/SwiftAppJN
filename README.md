@@ -1,7 +1,7 @@
 # SwiftMovieApp
 
 ## Overview:  
-- A movie app based on the Movie DB API to retrive JSON data and display in a tableview. Information about Top Rated Movies and Now Playing Movies are available, as well as a user-selected Favorite Movies List.
+- A movie app based on the Movie DB API to retrieve JSON data and display in a tableview. Information about Top Rated Movies and Now Playing Movies are available, as well as a user-selected Favorite Movies List.
 
 ## Requirements:
 - The latest version of XCode. This project was made in Xcode15.
